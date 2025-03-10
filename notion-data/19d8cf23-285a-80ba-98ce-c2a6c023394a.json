@@ -1,0 +1,1219 @@
+{
+  "object": "page",
+  "id": "19d8cf23-285a-80ba-98ce-c2a6c023394a",
+  "created_time": "2025-02-17T01:54:00.000Z",
+  "last_edited_time": "2025-03-10T05:18:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "12b8cf23-285a-800d-bcb6-dd3f5147dd5c"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "후기 - 가장빨리 만나는 go 언어",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "후기 - 가장빨리 만나는 go 언어",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/go-19d8cf23285a80ba98cec2a6c023394a",
+  "public_url": "https://mike-kangaroo-world.notion.site/go-19d8cf23285a80ba98cec2a6c023394a",
+  "request_id": "bf9cc14a-f884-4ecb-8350-5362f8119d10",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80fb-8c2a-f389db2a56f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T01:54:00.000Z",
+      "last_edited_time": "2025-02-17T01:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "go 를 전반적으로 쭉 훑어보고 간단한 프로젝트도 진행해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "go 를 전반적으로 쭉 훑어보고 간단한 프로젝트도 진행해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80a5-88a6-ddf6de5b212a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T02:02:00.000Z",
+      "last_edited_time": "2025-02-17T02:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "go 언어 공부하면서 C / C++ 공부했던 시절이 계속 생각나면서 비교하게됐다. 또한 typescript 을 주로 다루는 지금 typescript 와도 비교하게되더라",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "go 언어 공부하면서 C / C++ 공부했던 시절이 계속 생각나면서 비교하게됐다. 또한 typescript 을 주로 다루는 지금 typescript 와도 비교하게되더라",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80f4-9b08-e81462dc2372",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T02:03:00.000Z",
+      "last_edited_time": "2025-02-17T02:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80d0-a0b0-d80d67bd9d8b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T02:03:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "문법적 차이",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "문법적 차이",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80de-ba57-eefc6efd4e60",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "장점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "장점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8055-8ab0-cdabf66d0526",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T10:48:00.000Z",
+      "last_edited_time": "2025-02-17T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "type 을 뒤에 작성하는거 너무 좋음. 정말 직관적이야",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "type 을 뒤에 작성하는거 너무 좋음. 정말 직관적이야",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80a6-96f9-dbb8a9bb011a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T10:51:00.000Z",
+      "last_edited_time": "2025-02-17T10:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": ":= 이건 최고야~ 하지만 전역에서 못하는건 조금 아쉽",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ":= 이건 최고야~ 하지만 전역에서 못하는건 조금 아쉽",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80af-bd8f-c714e1152b4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T10:52:00.000Z",
+      "last_edited_time": "2025-02-17T10:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80df-bc78-c30a29ac4c36",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "단점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "단점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-800c-a390-f9e0e14155cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T10:49:00.000Z",
+      "last_edited_time": "2025-02-17T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "리턴 변수를 미리 선언하는 거 햇갈림…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "리턴 변수를 미리 선언하는 거 햇갈림…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8060-97da-d3ffe663b6b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T10:51:00.000Z",
+      "last_edited_time": "2025-02-17T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "어쩔때는 refernce 하고, 어쩔땐 derefence 하는게 C / C++ 이랑 많이 다른데?! ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어쩔때는 refernce 하고, 어쩔땐 derefence 하는게 C / C++ 이랑 많이 다른데?! ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1a98cf23-285a-800d-9390-e75efdbfa9fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-03-01T07:11:00.000Z",
+      "last_edited_time": "2025-03-01T07:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pointer 인 경우랑 pointer 가 아닌 경우 둘다 . 으로 하위 속성을 접근함. 이거 햇갈림 왜 이런거지?!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pointer 인 경우랑 pointer 가 아닌 경우 둘다 . 으로 하위 속성을 접근함. 이거 햇갈림 왜 이런거지?!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8078-85eb-e3e14050b57d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "타입 명시",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "타입 명시",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80a3-aa2d-e5918ae80d87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "리시버는 어려워, 햇갈려",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "리시버는 어려워, 햇갈려",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-801a-bab6-e3712991627c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:56:00.000Z",
+      "last_edited_time": "2025-02-17T03:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "함수 커링을 이쁘게 못하겠어요… 타입스크립트처럼 이쁘게 하고 싶은데…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "함수 커링을 이쁘게 못하겠어요… 타입스크립트처럼 이쁘게 하고 싶은데…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-802e-b7d1-f4cbba6c1a6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "채널",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "채널",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80d5-a6ff-f930dd31a077",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:56:00.000Z",
+      "last_edited_time": "2025-02-17T03:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "채널에 채널을 보내면?! 햇갈려 죽음..",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "채널에 채널을 보내면?! 햇갈려 죽음..",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80e6-8e0d-d818cd0374f6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:56:00.000Z",
+      "last_edited_time": "2025-02-17T03:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "채널을 사용하는 프로그램 설계는 너무 어려울듯, 아직 감이 안와",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "채널을 사용하는 프로그램 설계는 너무 어려울듯, 아직 감이 안와",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8047-8bdb-ff05f5c9041d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "고루틴",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고루틴",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8049-b208-caa276e98110",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "고루틴은 햇갈려",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고루틴은 햇갈려",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8039-acd1-c696ac23bf7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "익숙하지 않음",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "익숙하지 않음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80ba-92f5-c000c44c8159",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:57:00.000Z",
+      "last_edited_time": "2025-02-17T03:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "고루틴을 사용하는 프로그램 설계도 어려울듯… 아직 잘 모르겠어…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고루틴을 사용하는 프로그램 설계도 어려울듯… 아직 잘 모르겠어…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80a1-981a-f433dbca903e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:57:00.000Z",
+      "last_edited_time": "2025-02-17T03:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "프레임워크",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "프레임워크",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-809a-8cba-d4f29c4f383d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:57:00.000Z",
+      "last_edited_time": "2025-02-17T03:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "킬러 프레임워크의 부재… 백엔드 어캐만들어…. 쉽게 하고 싶은데…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "킬러 프레임워크의 부재… 백엔드 어캐만들어…. 쉽게 하고 싶은데…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-806a-8887-fcc1a388fe18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:56:00.000Z",
+      "last_edited_time": "2025-03-10T05:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "메서드",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "메서드",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-80ed-9b31-f8efe64273c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:56:00.000Z",
+      "last_edited_time": "2025-03-10T05:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "int 같은 기본타입에도 메서드를 추가할 수 있다?! 신기함… 이거 정확하게 이해가 안감. JS 는 내부 동작을 이해할 수 잇는데, Go 는 아직 안된다….",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "int 같은 기본타입에도 메서드를 추가할 수 있다?! 신기함… 이거 정확하게 이해가 안감. JS 는 내부 동작을 이해할 수 잇는데, Go 는 아직 안된다….",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19d8cf23-285a-8019-b906-cec49da4a921",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19d8cf23-285a-80ba-98ce-c2a6c023394a"
+      },
+      "created_time": "2025-02-17T03:55:00.000Z",
+      "last_edited_time": "2025-02-17T03:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

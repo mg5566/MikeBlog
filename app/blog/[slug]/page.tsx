@@ -1,29 +1,24 @@
-import { notFound } from 'next/navigation'
-import { baseUrl } from 'app/sitemap'
-import posts from 'content/posts'
-import NotionRenderer from 'components/notion-renderer'
-import Comment from 'components/comment'
+import { notFound } from "next/navigation";
+import { baseUrl } from "app/sitemap";
+import posts from "content/posts";
+import NotionRenderer from "components/notion-renderer";
+import Comment from "components/comment";
 
-export const runtime = 'edge';
+export const runtime = "edge";
 
 export async function generateStaticParams() {
-  return posts.map((post) => ({ slug: post.slug }))
+  return posts.map((post) => ({ slug: post.slug }));
 }
 
 export function generateMetadata({ params }) {
-  let post = posts.find((post) => post.slug === params.slug)
+  let post = posts.find((post) => post.slug === params.slug);
   if (!post) {
-    return
+    return;
   }
-  let {
-    title,
-    date: publishedTime,
-    description,
-    image,
-  } = post
+  let { title, date: publishedTime, description, image } = post;
   let ogImage = image
     ? image
-    : `${baseUrl}/og?title=${encodeURIComponent(title)}`
+    : `${baseUrl}/og?title=${encodeURIComponent(title)}`;
 
   return {
     title,
@@ -31,7 +26,7 @@ export function generateMetadata({ params }) {
     openGraph: {
       title,
       description,
-      type: 'article',
+      type: "article",
       publishedTime,
       url: `${baseUrl}/blog/${post.slug}`,
       images: [
@@ -41,19 +36,19 @@ export function generateMetadata({ params }) {
       ],
     },
     twitter: {
-      card: 'summary_large_image',
+      card: "summary_large_image",
       title,
       description,
       images: [ogImage],
     },
-  }
+  };
 }
 
 export default async function Blog({ params }) {
-  const { slug } = await params
-  let post = posts.find((post) => post.slug === slug)
+  const { slug } = await params;
+  let post = posts.find((post) => post.slug === slug);
   if (!post) {
-    notFound()
+    notFound();
   }
 
   return (
@@ -63,8 +58,8 @@ export default async function Blog({ params }) {
         suppressHydrationWarning
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'BlogPosting',
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
             headline: post.title,
             datePublished: post.date,
             dateModified: post.date,
@@ -74,14 +69,14 @@ export default async function Blog({ params }) {
               : `/og?title=${encodeURIComponent(post.title)}`,
             url: `${baseUrl}/blog/${post.slug}`,
             author: {
-              '@type': 'Person',
-              name: 'My Portfolio',
+              "@type": "Person",
+              name: "My Portfolio",
             },
           }),
         }}
       />
       <NotionRenderer post={post} />
-      <Comment />
+      {/* <Comment /> */}
     </section>
-  )
+  );
 }

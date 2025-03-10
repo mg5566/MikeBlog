@@ -3,11 +3,13 @@
 // 2. Update repo, repoId, and categoryId with your own giscus settings
 // 3. Visit https://giscus.app to get your settings
 
+// import Giscus from "@giscus/react";
+
 // export default function Comment() {
 //   return (
 //     <Giscus
 //       id="comments"
-//       repo="" 
+//       repo="https://github.com/mg5566/MikeBlog"
 //       repoId=""
 //       category="Announcements"
 //       categoryId=""
@@ -20,5 +22,5 @@
 //       lang="ko"
 //       loading="lazy"
 //     />
-//   )
+//   );
 // }
