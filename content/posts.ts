@@ -2,6 +2,7 @@ import post1 from "../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json";
 import post2 from "../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json";
 import newPost from "../notion-data/19d8cf23-285a-80ba-98ce-c2a6c023394a.json";
 import seoOpenGraph from "../notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05.json";
+import notionPressoCons from "../notion-data/1b48cf23-285a-800d-8d71-e59c62011457.json";
 
 const posts = [
   {
@@ -36,6 +37,14 @@ const posts = [
     content: seoOpenGraph,
     date: "2025-03-12",
     description: "SEO - Open Graph 적용하기",
+    image: undefined,
+  },
+  {
+    title: "NotionPresso 단점 발견",
+    slug: "notionpresso-cons",
+    content: notionPressoCons,
+    date: "2025-03-12",
+    description: "NotionPresso 단점 발견",
     image: undefined,
   },
 ] as Post[];
