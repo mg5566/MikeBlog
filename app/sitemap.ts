@@ -1,6 +1,7 @@
 import posts from "content/posts";
 
-export const baseUrl = process.env.BASE_URL as string;
+export const baseUrl =
+  (process.env.BASE_URL as string) ?? "http://localhost:3000";
 
 export default async function sitemap2() {
   let blogs = posts.map((post) => ({

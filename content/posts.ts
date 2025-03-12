@@ -1,6 +1,7 @@
 import post1 from "../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json";
 import post2 from "../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json";
 import newPost from "../notion-data/19d8cf23-285a-80ba-98ce-c2a6c023394a.json";
+import seoOpenGraph from "../notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05.json";
 
 const posts = [
   {
@@ -27,6 +28,14 @@ const posts = [
     content: newPost,
     date: "2025-03-10",
     description: "Go 를 시작하며",
+    image: undefined,
+  },
+  {
+    title: "SEO - Open Graph 적용하기",
+    slug: "seo-open-graph",
+    content: seoOpenGraph,
+    date: "2025-03-12",
+    description: "SEO - Open Graph 적용하기",
     image: undefined,
   },
 ] as Post[];

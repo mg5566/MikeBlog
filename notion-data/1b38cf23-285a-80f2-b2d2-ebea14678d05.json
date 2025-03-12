@@ -1,0 +1,2783 @@
+{
+  "object": "page",
+  "id": "1b38cf23-285a-80f2-b2d2-ebea14678d05",
+  "created_time": "2025-03-11T10:09:00.000Z",
+  "last_edited_time": "2025-03-12T06:23:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "1688cf23-285a-80c6-8f58-e3a96a6ccde2"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "SEO - OpenGraph 적용하기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "SEO - OpenGraph 적용하기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/SEO-OpenGraph-1b38cf23285a80f2b2d2ebea14678d05",
+  "public_url": null,
+  "request_id": "fbe82eab-722d-47ed-a715-54c9e314f59d",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-8041-bb50-cf6baa338c21",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:34:00.000Z",
+      "last_edited_time": "2025-03-12T05:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Open Graph protocol",
+              "link": {
+                "url": "https://ogp.me/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Open Graph protocol",
+            "href": "https://ogp.me/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.\n\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.\n\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ogp.me/",
+              "link": {
+                "url": "https://ogp.me/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ogp.me/",
+            "href": "https://ogp.me/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80a7-83df-d89a7a66fca6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:34:00.000Z",
+      "last_edited_time": "2025-03-12T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OpenGraph 를 적용해봅시다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OpenGraph 를 적용해봅시다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80c0-9726-e9c96ea209e3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:36:00.000Z",
+      "last_edited_time": "2025-03-12T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OpenGraph 이미지 만들기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OpenGraph 이미지 만들기",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8035-a6ab-c4d788d7ad6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:09:00.000Z",
+      "last_edited_time": "2025-03-11T10:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DALLE 를 사용해서 OpenGraph 에 사용할 이미지를 생성했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DALLE 를 사용해서 OpenGraph 에 사용할 이미지를 생성했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8070-ba80-c49f1d5f7963",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:10:00.000Z",
+      "last_edited_time": "2025-03-11T10:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_1.png",
+          "expiry_time": "2025-03-12T07:23:36.204Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80e7-b527-f6eebfe98ddf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:37:00.000Z",
+      "last_edited_time": "2025-03-12T04:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OpenGraph용 이미지를 DALLE를 활용하여 여러 번의 프롬프트를 통해 만들었습니다. (멋진 이미지를 만들었지만, 처음에 생각했던 의도와는 조금 다르게 표현되어 아쉬움이 남습니다.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OpenGraph용 이미지를 DALLE를 활용하여 여러 번의 프롬프트를 통해 만들었습니다. (멋진 이미지를 만들었지만, 처음에 생각했던 의도와는 조금 다르게 표현되어 아쉬움이 남습니다.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8093-8e2e-d649479e0c61",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:10:00.000Z",
+      "last_edited_time": "2025-03-12T04:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "해당 이미지를 OpenGraph 와 favicon 에 사용할 예정입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해당 이미지를 OpenGraph 와 favicon 에 사용할 예정입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-804e-9268-e3bb446d6d3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:12:00.000Z",
+      "last_edited_time": "2025-03-11T10:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Metadata 를 작성하자",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Metadata 를 작성하자",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80d8-88b0-c6c1e89d9a3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:13:00.000Z",
+      "last_edited_time": "2025-03-11T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OpenGraph 설정을 위해서 meta 태그에 정보를 입력해야합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OpenGraph 설정을 위해서 meta 태그에 정보를 입력해야합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-806f-8d8a-eb48a426258d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:15:00.000Z",
+      "last_edited_time": "2025-03-11T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<meta property=\"og:title\" content=\"Next.js\" />\n<meta property=\"og:description\" content=\"The React Framework for the Web\" />\n<meta property=\"og:url\" content=\"https://nextjs.org/\" />\n<meta property=\"og:site_name\" content=\"Next.js\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:image\" content=\"https://nextjs.org/og.png\" />\n<meta property=\"og:image:width\" content=\"800\" />\n<meta property=\"og:image:height\" content=\"600\" />\n<meta property=\"og:image\" content=\"https://nextjs.org/og-alt.png\" />\n<meta property=\"og:image:width\" content=\"1800\" />\n<meta property=\"og:image:height\" content=\"1600\" />\n<meta property=\"og:image:alt\" content=\"My custom alt\" />\n<meta property=\"og:video\" content=\"https://nextjs.org/video.mp4\" />\n<meta property=\"og:video:width\" content=\"800\" />\n<meta property=\"og:video:height\" content=\"600\" />\n<meta property=\"og:audio\" content=\"https://nextjs.org/audio.mp3\" />\n<meta property=\"og:type\" content=\"website\" />",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<meta property=\"og:title\" content=\"Next.js\" />\n<meta property=\"og:description\" content=\"The React Framework for the Web\" />\n<meta property=\"og:url\" content=\"https://nextjs.org/\" />\n<meta property=\"og:site_name\" content=\"Next.js\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:image\" content=\"https://nextjs.org/og.png\" />\n<meta property=\"og:image:width\" content=\"800\" />\n<meta property=\"og:image:height\" content=\"600\" />\n<meta property=\"og:image\" content=\"https://nextjs.org/og-alt.png\" />\n<meta property=\"og:image:width\" content=\"1800\" />\n<meta property=\"og:image:height\" content=\"1600\" />\n<meta property=\"og:image:alt\" content=\"My custom alt\" />\n<meta property=\"og:video\" content=\"https://nextjs.org/video.mp4\" />\n<meta property=\"og:video:width\" content=\"800\" />\n<meta property=\"og:video:height\" content=\"600\" />\n<meta property=\"og:audio\" content=\"https://nextjs.org/audio.mp3\" />\n<meta property=\"og:type\" content=\"website\" />",
+            "href": null
+          }
+        ],
+        "language": "typescript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8098-86cd-ce1b6f989659",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:13:00.000Z",
+      "last_edited_time": "2025-03-11T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위와 같은 정보가 존재해야 OpenGraph 기능이 정상적으로 동작합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위와 같은 정보가 존재해야 OpenGraph 기능이 정상적으로 동작합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-806a-9280-db71534df2bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:15:00.000Z",
+      "last_edited_time": "2025-03-11T10:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Next.js 에서는 metadata 를 설정하는 방법을 제공합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Next.js 에서는 metadata 를 설정하는 방법을 제공합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-802c-a763-c7876fc21489",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:17:00.000Z",
+      "last_edited_time": "2025-03-11T10:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80b9-a6e8-e1fd170b753e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:12:00.000Z",
+      "last_edited_time": "2025-03-11T10:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "NotionPresso 의 가이드 문서에 마지막쯤에 가면 SEO 가이드가 존재합니다. 거기서 OpenGraph 를 설정하는 방법을 가이드해줍니다. 그 방식을 따라서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "NotionPresso 의 가이드 문서에 마지막쯤에 가면 SEO 가이드가 존재합니다. 거기서 OpenGraph 를 설정하는 방법을 가이드해줍니다. 그 방식을 따라서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "app/layout.tsx",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "app/layout.tsx",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 에 존재하는 metadata 를 다음과 같이 수정했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 에 존재하는 metadata 를 다음과 같이 수정했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80b6-8ed1-f096d3674943",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:18:00.000Z",
+      "last_edited_time": "2025-03-11T10:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "export const metadata: Metadata = {\n  metadataBase: new URL(baseUrl),\n  title: {\n    default: \"그저 그렇진만은 않은 개발자\",\n    template: \"%s | 그저 그렇진만은 않은 개발자\",\n  },\n  description:\n    \"그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그.\",\n  // \"Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.\",\n  openGraph: {\n    title: \"그저 그렇진만은 않은 개발자\",\n    description:\n      \"그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그입니다.\",\n    // \"Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.\",\n    url: baseUrl,\n    siteName: \"그저 그렇진만은 않은 개발자\",\n    locale: \"en_US\",\n    type: \"website\",\n    images: [\n      {\n        url: \"/og_image.png\",\n        width: 800,\n        height: 600,\n        alt: \"그저 그렇지만은 않은 개발자 블로그 대표 이미지\",\n      },\n    ],\n  },\n  robots: {\n    index: true,\n    follow: true,\n    googleBot: {\n      index: true,\n      follow: true,\n      \"max-video-preview\": -1,\n      \"max-image-preview\": \"large\",\n      \"max-snippet\": -1,\n    },\n  },\n  twitter: {\n    card: \"summary_large_image\",\n    images: [\"/og_image.png\"],\n  },\n  icons: {\n    icon: \"/og_image.png\",\n    apple: \"/og_image.png\",\n  },\n};",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "export const metadata: Metadata = {\n  metadataBase: new URL(baseUrl),\n  title: {\n    default: \"그저 그렇진만은 않은 개발자\",\n    template: \"%s | 그저 그렇진만은 않은 개발자\",\n  },\n  description:\n    \"그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그.\",\n  // \"Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.\",\n  openGraph: {\n    title: \"그저 그렇진만은 않은 개발자\",\n    description:\n      \"그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그입니다.\",\n    // \"Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.\",\n    url: baseUrl,\n    siteName: \"그저 그렇진만은 않은 개발자\",\n    locale: \"en_US\",\n    type: \"website\",\n    images: [\n      {\n        url: \"/og_image.png\",\n        width: 800,\n        height: 600,\n        alt: \"그저 그렇지만은 않은 개발자 블로그 대표 이미지\",\n      },\n    ],\n  },\n  robots: {\n    index: true,\n    follow: true,\n    googleBot: {\n      index: true,\n      follow: true,\n      \"max-video-preview\": -1,\n      \"max-image-preview\": \"large\",\n      \"max-snippet\": -1,\n    },\n  },\n  twitter: {\n    card: \"summary_large_image\",\n    images: [\"/og_image.png\"],\n  },\n  icons: {\n    icon: \"/og_image.png\",\n    apple: \"/og_image.png\",\n  },\n};",
+            "href": null
+          }
+        ],
+        "language": "typescript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80f7-9923-c43da845b3bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:10:00.000Z",
+      "last_edited_time": "2025-03-12T04:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vercel 에 배포 완료! 이제 확인해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vercel 에 배포 완료! 이제 확인해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80d6-9fa9-e278640723f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:19:00.000Z",
+      "last_edited_time": "2025-03-11T10:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OpenGraph 가 정상동작하지 않아요….",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OpenGraph 가 정상동작하지 않아요….",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8075-bc9b-fbf6a1a07eae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:20:00.000Z",
+      "last_edited_time": "2025-03-11T10:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_2.png",
+          "expiry_time": "2025-03-12T07:23:36.227Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-800d-9c31-c5b22d51a824",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:10:00.000Z",
+      "last_edited_time": "2025-03-11T10:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이것좀 보세요… OpenGraph 가 정상적으로 동작하지 않습니다… ㅠㅠ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이것좀 보세요… OpenGraph 가 정상적으로 동작하지 않습니다… ㅠㅠ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8015-b3cd-e78ce5ad36dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:20:00.000Z",
+      "last_edited_time": "2025-03-11T10:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_3.png",
+          "expiry_time": "2025-03-12T07:23:36.219Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-8031-966a-ee18c8da1fd9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:38:00.000Z",
+      "last_edited_time": "2025-03-12T04:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "favicon은 잘 작동하는데 OpenGraph 이미지만 정상적으로 동작하지 않고 있습니다… 문제가 favicon과 OpenGraph 설정의 차이에서 발생했을 가능성이 높아 보입니다. 좀 더 면밀히 살펴보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "favicon은 잘 작동하는데 OpenGraph 이미지만 정상적으로 동작하지 않고 있습니다… 문제가 favicon과 OpenGraph 설정의 차이에서 발생했을 가능성이 높아 보입니다. 좀 더 면밀히 살펴보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80b3-9f39-f08635351093",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:21:00.000Z",
+      "last_edited_time": "2025-03-11T10:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "asset 을 못불러오나?!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "asset 을 못불러오나?!",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8066-b131-c4ab265816aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:21:00.000Z",
+      "last_edited_time": "2025-03-11T10:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "og_image.png",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "og_image.png",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 파일은 /public 경로에 존재합니다. metadata 를 설정할때, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 파일은 /public 경로에 존재합니다. metadata 를 설정할때, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\"/og_image.png\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "\"/og_image.png\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 이렇게 사용중인데, path 가 잘못되어 못찾는건가 싶어서 여러가지 테스트를 진행해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이렇게 사용중인데, path 가 잘못되어 못찾는건가 싶어서 여러가지 테스트를 진행해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80a7-b516-dddc063227d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:22:00.000Z",
+      "last_edited_time": "2025-03-11T10:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "일단 local server 를 실행하고 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "일단 local server 를 실행하고 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "localhost:3000/og_image.png",
+              "link": {
+                "url": "http://localhost:3000/og_image.png"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "localhost:3000/og_image.png",
+            "href": "http://localhost:3000/og_image.png"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 경로로 이동해봤습니다. 정상적으로 이미지를 불러옵니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 경로로 이동해봤습니다. 정상적으로 이미지를 불러옵니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80c9-a778-fe67dc2fa905",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:23:00.000Z",
+      "last_edited_time": "2025-03-11T10:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "즉, path 의 문제는 아니였습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "즉, path 의 문제는 아니였습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80b1-b73b-eb4b1c5984dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:23:00.000Z",
+      "last_edited_time": "2025-03-11T10:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vercel 에서 배포 정보를 확인하면 OpenGraph 관련 정보를 보여줍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vercel 에서 배포 정보를 확인하면 OpenGraph 관련 정보를 보여줍니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80f7-a5d9-f5447456a2f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:24:00.000Z",
+      "last_edited_time": "2025-03-11T10:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_4.png",
+          "expiry_time": "2025-03-12T07:23:36.234Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-805b-a2da-f982f06b4cbe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:23:00.000Z",
+      "last_edited_time": "2025-03-11T10:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정상적으로 존재한단 말이죠… 왜 이런걸까요??! 카카오톡에서만 안되는걸까요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정상적으로 존재한단 말이죠… 왜 이런걸까요??! 카카오톡에서만 안되는걸까요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8059-a42f-c6725aa46f3a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:29:00.000Z",
+      "last_edited_time": "2025-03-11T10:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "카카오톡 디버거",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "카카오톡 디버거",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8095-9c33-e511e08451a9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:30:00.000Z",
+      "last_edited_time": "2025-03-11T10:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vercel 에서 카카오톡을 미리보기 할 수 없길래 카카오톡의 문제일까 싶어서 찾아봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vercel 에서 카카오톡을 미리보기 할 수 없길래 카카오톡의 문제일까 싶어서 찾아봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80ce-a293-c5cb52e3ec60",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:31:00.000Z",
+      "last_edited_time": "2025-03-11T10:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "카카오톡에서 캐싱을 하고 있어서 OG 가 최신화 안될 수도 있다고 하더라구요?!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "카카오톡에서 캐싱을 하고 있어서 OG 가 최신화 안될 수도 있다고 하더라구요?!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80a9-92ba-efd7732f2324",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T06:23:00.000Z",
+      "last_edited_time": "2025-03-12T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://developers.kakao.com/tool/debugger/sharing",
+              "link": {
+                "url": "https://developers.kakao.com/tool/debugger/sharing"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://developers.kakao.com/tool/debugger/sharing",
+            "href": "https://developers.kakao.com/tool/debugger/sharing"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-800c-9dc6-c3962aefbdd7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:31:00.000Z",
+      "last_edited_time": "2025-03-11T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여기서 블로그 주소를 입력해서 정보를 살펴봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여기서 블로그 주소를 입력해서 정보를 살펴봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-806e-8ff3-f1e1d6b75bf8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:32:00.000Z",
+      "last_edited_time": "2025-03-11T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_5.png",
+          "expiry_time": "2025-03-12T07:23:36.209Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-809e-90d2-f4ebe7680044",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:32:00.000Z",
+      "last_edited_time": "2025-03-11T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "역시나… OpenGraph 정보가 업데이트 되지 않았군요. 캐시를 초기화한다음 다시 시도해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "역시나… OpenGraph 정보가 업데이트 되지 않았군요. 캐시를 초기화한다음 다시 시도해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80bf-a0f1-fc41d4a92fe0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:32:00.000Z",
+      "last_edited_time": "2025-03-11T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그러나 실패….. 대폭망~",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그러나 실패….. 대폭망~",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80e5-b165-e68c9bdd2f77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:32:00.000Z",
+      "last_edited_time": "2025-03-11T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "무엇이 문제인가?!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "무엇이 문제인가?!",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8022-86d3-e218d6936d77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:32:00.000Z",
+      "last_edited_time": "2025-03-11T10:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결론적으로 저는 문제를 찾았습니다. 다시 Vercel 의 배포정보를 살펴보면 문제의 원인을 찾을 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결론적으로 저는 문제를 찾았습니다. 다시 Vercel 의 배포정보를 살펴보면 문제의 원인을 찾을 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8087-a112-f645a33d4f06",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:34:00.000Z",
+      "last_edited_time": "2025-03-11T10:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_6.png",
+          "expiry_time": "2025-03-12T07:23:36.214Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-8093-a098-c494a99cb267",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:34:00.000Z",
+      "last_edited_time": "2025-03-11T10:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ㄷㄷㄷ… 제 블로그 주소가 아닙니다…. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ㄷㄷㄷ… 제 블로그 주소가 아닙니다…. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80ed-b474-ccb4ec1a4d89",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:35:00.000Z",
+      "last_edited_time": "2025-03-11T10:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "제 블로그 주소를 사용해서 og_image.png 에 접근하면 정상적으로 보인다는 사실~",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "제 블로그 주소를 사용해서 og_image.png 에 접근하면 정상적으로 보인다는 사실~",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-801d-bac1-e16c60a74810",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:34:00.000Z",
+      "last_edited_time": "2025-03-11T10:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://mike-blog-murex.vercel.app/og_image.png",
+              "link": {
+                "url": "https://mike-blog-murex.vercel.app/og_image.png"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://mike-blog-murex.vercel.app/og_image.png",
+            "href": "https://mike-blog-murex.vercel.app/og_image.png"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80f0-b5a8-c234bf2aa5fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:35:00.000Z",
+      "last_edited_time": "2025-03-11T10:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-80c6-8cac-d7e369ead039",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:35:00.000Z",
+      "last_edited_time": "2025-03-11T10:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다시 코드로 돌아가서 metadata 를 보면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다시 코드로 돌아가서 metadata 를 보면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "metadataBase",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "metadataBase",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 라는 속성이 존재하는데요. 여기에 사용하는 baseUrl 이 sitemap.tsx 에서 import 해오고 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 라는 속성이 존재하는데요. 여기에 사용하는 baseUrl 이 sitemap.tsx 에서 import 해오고 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-805d-b227-cb03ccad0501",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:37:00.000Z",
+      "last_edited_time": "2025-03-11T10:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_7.png",
+          "expiry_time": "2025-03-12T07:23:36.220Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-803f-88ea-f827cf2da5fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:37:00.000Z",
+      "last_edited_time": "2025-03-11T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "찾았습니다… 이런… 하드코딩된 base url 을 사용하고 있었군요….. ㄷㄷ 이런 경우에는 어떻게 설정을 해야할까요?!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "찾았습니다… 이런… 하드코딩된 base url 을 사용하고 있었군요….. ㄷㄷ 이런 경우에는 어떻게 설정을 해야할까요?!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b38cf23-285a-808b-a463-c9c58f08b087",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-11T10:38:00.000Z",
+      "last_edited_time": "2025-03-11T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "baseUrl 정상화",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "baseUrl 정상화",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80ef-88ab-c26fe815eb9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:39:00.000Z",
+      "last_edited_time": "2025-03-12T04:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하드코딩된 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하드코딩된 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "baseUrl",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "baseUrl",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "은 배포 환경마다 다르게 설정할 수 없어서 문제가 발생할 수 있습니다. 이 문제를 해결하려면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "은 배포 환경마다 다르게 설정할 수 없어서 문제가 발생할 수 있습니다. 이 문제를 해결하려면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".env",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": ".env",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 파일로 환경 변수를 설정하면 좋겠지만, Next.js를 Vercel에 배포할 때 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 파일로 환경 변수를 설정하면 좋겠지만, Next.js를 Vercel에 배포할 때 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".env",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": ".env",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 파일이 포함되지 않기 때문에, Vercel에서 제공하는 Environment Variables 기능을 활용해야합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 파일이 포함되지 않기 때문에, Vercel에서 제공하는 Environment Variables 기능을 활용해야합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80ff-b8c5-da26266c381f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T01:02:00.000Z",
+      "last_edited_time": "2025-03-12T01:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_8.png",
+          "expiry_time": "2025-03-12T07:23:36.209Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-809f-9641-ff7c68510291",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T01:02:00.000Z",
+      "last_edited_time": "2025-03-12T01:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "환경변수를 추가하고, 다시 재배포 해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "환경변수를 추가하고, 다시 재배포 해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80ef-8f03-c4a2dfd5ed89",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T01:00:00.000Z",
+      "last_edited_time": "2025-03-12T01:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05/image_9.png",
+          "expiry_time": "2025-03-12T07:23:36.299Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-805b-bc75-c597931075aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T01:02:00.000Z",
+      "last_edited_time": "2025-03-12T01:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "짜잔 정상적으로 OG 가 설정되었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "짜잔 정상적으로 OG 가 설정되었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80c9-ae81-d7c646132a19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:34:00.000Z",
+      "last_edited_time": "2025-03-12T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80a0-9bd3-e5ec13375bf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T01:03:00.000Z",
+      "last_edited_time": "2025-03-12T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "참고",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-80ec-bc03-edc33f600796",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T06:19:00.000Z",
+      "last_edited_time": "2025-03-12T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The Open Graph Protocol ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The Open Graph Protocol ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ogp.me/",
+              "link": {
+                "url": "https://ogp.me/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ogp.me/",
+            "href": "https://ogp.me/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-8007-a6dd-d9a1667cfab6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T04:36:00.000Z",
+      "last_edited_time": "2025-03-12T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Next.js Open Graph 설정 방법 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Next.js Open Graph 설정 방법 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph",
+              "link": {
+                "url": "https://nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph",
+            "href": "https://nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b48cf23-285a-802c-99ca-d208f5e74d57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b38cf23-285a-80f2-b2d2-ebea14678d05"
+      },
+      "created_time": "2025-03-12T06:20:00.000Z",
+      "last_edited_time": "2025-03-12T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
