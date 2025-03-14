@@ -3,6 +3,7 @@ import post2 from "../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json";
 import newPost from "../notion-data/19d8cf23-285a-80ba-98ce-c2a6c023394a.json";
 import seoOpenGraph from "../notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05.json";
 import notionPressoCons from "../notion-data/1b48cf23-285a-800d-8d71-e59c62011457.json";
+import commandCommandfor from "../notion-data/1b68cf23-285a-8029-9730-fe1a24c55dc6.json";
 
 const posts = [
   {
@@ -45,6 +46,14 @@ const posts = [
     content: notionPressoCons,
     date: "2025-03-12",
     description: "NotionPresso 단점 발견",
+    image: undefined,
+  },
+  {
+    title: "command 및 commandfor",
+    slug: "command-commandfor",
+    content: commandCommandfor,
+    date: "2025-03-14",
+    description: "command 및 commandfor 소개 및 정리",
     image: undefined,
   },
 ] as Post[];
