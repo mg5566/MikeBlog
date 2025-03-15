@@ -9,6 +9,10 @@ import { ThemeProvider } from "next-themes";
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
+  verification: {
+    // <meta name="google-site-verification" content="OOL_H_8lqQA0ZLQYwiJXRTLSThla9oCOr40zDdeHFnM" />
+    google: "OOL_H_8lqQA0ZLQYwiJXRTLSThla9oCOr40zDdeHFnM",
+  },
   title: {
     default: "그저 그렇지만은 않은 개발자",
     template: "%s | 그저 그렇지만은 않은 개발자",
