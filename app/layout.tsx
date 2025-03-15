@@ -10,19 +10,19 @@ import { ThemeProvider } from "next-themes";
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "그저 그렇진만은 않은 개발자",
-    template: "%s | 그저 그렇진만은 않은 개발자",
+    default: "그저 그렇지만은 않은 개발자",
+    template: "%s | 그저 그렇지만은 않은 개발자",
   },
   description:
     "그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그.",
   // "Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.",
   openGraph: {
-    title: "그저 그렇진만은 않은 개발자",
+    title: "그저 그렇지만은 않은 개발자",
     description:
       "그저 그렇지도 못한 개발자에서 그저 그런 개발자로, 그저 그런 개발자에서 그저 그렇지만은 않은 개발자가 되기 위해 노력하는 개발자의 블로그입니다.",
     // "Started as a not-so-great developer, became an okay one, and now pushing to be anything but ordinary.",
     url: baseUrl,
-    siteName: "그저 그렇진만은 않은 개발자",
+    siteName: "그저 그렇지만은 않은 개발자",
     locale: "en_US",
     type: "website",
     images: [

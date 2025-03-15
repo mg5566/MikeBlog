@@ -1,9 +1,10 @@
 import posts from "content/posts";
+import type { MetadataRoute } from "next";
 
 export const baseUrl =
   (process.env.BASE_URL as string) ?? "http://localhost:3000";
 
-export default async function sitemap2() {
+export default function sitemap(): MetadataRoute.Sitemap {
   let blogs = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: post.date,
