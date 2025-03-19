@@ -4,7 +4,7 @@ import posts from "content/posts";
 import NotionRenderer from "components/notion-renderer";
 import Comment from "components/comment";
 
-export const runtime = "edge";
+// export const runtime = "edge";
 
 export async function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
