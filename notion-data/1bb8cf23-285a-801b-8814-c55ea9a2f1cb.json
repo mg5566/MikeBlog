@@ -1,0 +1,3517 @@
+{
+  "object": "page",
+  "id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb",
+  "created_time": "2025-03-19T08:59:00.000Z",
+  "last_edited_time": "2025-03-24T06:37:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "1688cf23-285a-80c6-8f58-e3a96a6ccde2"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "SSR 로 블로그 배포하다 마주친 의문의 500 에러 - runtime edge 만날 썰 푼다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "SSR 로 블로그 배포하다 마주친 의문의 500 에러 - runtime edge 만날 썰 푼다.",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/SSR-500-runtime-edge-1bb8cf23285a801b8814c55ea9a2f1cb",
+  "public_url": null,
+  "request_id": "5a9dc291-49f0-4a5b-b5f6-bd4a8be345c9",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-804d-aff7-d9bd4f7d7309",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:34:00.000Z",
+      "last_edited_time": "2025-03-20T10:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "돈을 버는 서비스를 운영하는 프론트엔드 엔지니어가 되기위해서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "돈을 버는 서비스를 운영하는 프론트엔드 엔지니어가 되기위해서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "SEO(Search Engine Optimization, 검색 엔진 최적화)",
+              "link": {
+                "url": "https://developer.mozilla.org/en-US/docs/Glossary/SEO"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SEO(Search Engine Optimization, 검색 엔진 최적화)",
+            "href": "https://developer.mozilla.org/en-US/docs/Glossary/SEO"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "에 관심이 많습니다. 이번에 개인 블로그를 배포하여 포스팅을 열심히 하고 있었는데, 이상하게도 구글 검색에서 내 블로그가 검색되지 않는다는 사실을 알게되었습니다. 당황한 마음에 robots.txt 와 sitemap 설정부터 차근차근 점검했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "에 관심이 많습니다. 이번에 개인 블로그를 배포하여 포스팅을 열심히 하고 있었는데, 이상하게도 구글 검색에서 내 블로그가 검색되지 않는다는 사실을 알게되었습니다. 당황한 마음에 robots.txt 와 sitemap 설정부터 차근차근 점검했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-80a0-bb2a-ca507bfa0f7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:36:00.000Z",
+      "last_edited_time": "2025-03-20T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 robots.txt 와 sitemap 에는 아무런 문제가 없었고, 결국 구글 서치 콘솔을 열어서 확인해보니 예상치 못한 사실을 마주했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 robots.txt 와 sitemap 에는 아무런 문제가 없었고, 결국 구글 서치 콘솔을 열어서 확인해보니 예상치 못한 사실을 마주했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-806f-907d-dd475f7f57a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:38:00.000Z",
+      "last_edited_time": "2025-03-20T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_1.png",
+          "expiry_time": "2025-03-24T07:37:54.419Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-8091-91ad-f6c96445f839",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:27:00.000Z",
+      "last_edited_time": "2025-03-20T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“페이지 색인을 생성할 수 없음: 서버 에러(5xx)”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“페이지 색인을 생성할 수 없음: 서버 에러(5xx)”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-802d-8640-d72ee2b23eea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:39:00.000Z",
+      "last_edited_time": "2025-03-20T10:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이런…. 왜 이런 문제가 발생하는지 원인을 찾으려고 로그를 분석하며 많은 시도를 하던 도중, 저는 처음으로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이런…. 왜 이런 문제가 발생하는지 원인을 찾으려고 로그를 분석하며 많은 시도를 하던 도중, 저는 처음으로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = ”edge”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = ”edge”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 모드라는 낯선 개념을 마주했습니다. 렌더링 방식 자체가 달라지는 이전까지 생각도 못해본 문제였습니다. 이 경험을 통해 배운 중요한 사실을 놓치지 않고 기록으로 남겨보고자 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 모드라는 낯선 개념을 마주했습니다. 렌더링 방식 자체가 달라지는 이전까지 생각도 못해본 문제였습니다. 이 경험을 통해 배운 중요한 사실을 놓치지 않고 기록으로 남겨보고자 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-8036-a570-c80257dae3b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:41:00.000Z",
+      "last_edited_time": "2025-03-20T10:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(저처럼 notionpresso를 사용하여 블로그를 배포하는 모든 분들에게 도움이 되길 바랍니다)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(저처럼 notionpresso를 사용하여 블로그를 배포하는 모든 분들에게 도움이 되길 바랍니다)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-80e5-9f7d-d4bd8adafd9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:41:00.000Z",
+      "last_edited_time": "2025-03-20T10:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-80b0-a368-da2d3fc227b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"왜 열심히 쓴 내 블로그 글이 구글 검색에서 전혀 안 나올까? SEO를 꼼꼼히 챙겼다고 생각했는데 도대체 어디서부터 잘못된 걸까?\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"왜 열심히 쓴 내 블로그 글이 구글 검색에서 전혀 안 나올까? SEO를 꼼꼼히 챙겼다고 생각했는데 도대체 어디서부터 잘못된 걸까?\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-809c-9206-d04a34eaccbe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "robots.txt부터 sitemap, JSON-LD, metadata까지 SEO와 관련된 모든 설정을 하나하나 꼼꼼하게 챙겼다고 생각했습니다. 그런데 이상하게도 내 블로그 포스팅은 구글에서 찾아볼 수 없었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "robots.txt부터 sitemap, JSON-LD, metadata까지 SEO와 관련된 모든 설정을 하나하나 꼼꼼하게 챙겼다고 생각했습니다. 그런데 이상하게도 내 블로그 포스팅은 구글에서 찾아볼 수 없었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8018-996b-f62f6b5a840c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "문제의 원인을 검색하다가 구글에서 제공하는 SEO 관리 도구인 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "문제의 원인을 검색하다가 구글에서 제공하는 SEO 관리 도구인 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Google Search Console",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Google Search Console",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 알게 되었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 알게 되었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8046-82a1-ef8fef0507f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새로 발행한 페이지를 구글 검색 봇이 인지할 수 있도록 하기 위해서는 우선 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새로 발행한 페이지를 구글 검색 봇이 인지할 수 있도록 하기 위해서는 우선 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\"색인 생성\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"색인 생성\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 과정을 거쳐야 한다. 색인이 완료되면 구글 검색 결과에 내가 발행한 페이지가 노출될 수 있게 됩니다. 또한 Google Search Console을 통해 검색 결과 모니터링과 문제 진단, 검색 순위 향상을 위한 다양한 활동도 가능합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 과정을 거쳐야 한다. 색인이 완료되면 구글 검색 결과에 내가 발행한 페이지가 노출될 수 있게 됩니다. 또한 Google Search Console을 통해 검색 결과 모니터링과 문제 진단, 검색 순위 향상을 위한 다양한 활동도 가능합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-80e0-bc49-db10038923a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "색인 생성을 위해 URL test를 진행했는데, 여기서 앞서 언급한 문제가 발생했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "색인 생성을 위해 URL test를 진행했는데, 여기서 앞서 언급한 문제가 발생했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-804b-bd99-c3f95b867e1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "단순한 SEO 설정 문제를 넘어 뭔가 근본적인 문제가 있다는 걸 직감했고, 본격적으로 원인을 찾기 위해 vercel log를 열어 분석을 시작했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "단순한 SEO 설정 문제를 넘어 뭔가 근본적인 문제가 있다는 걸 직감했고, 본격적으로 원인을 찾기 위해 vercel log를 열어 분석을 시작했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8040-b945-cb25a2c18671",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:41:00.000Z",
+      "last_edited_time": "2025-03-21T01:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_2.png",
+          "expiry_time": "2025-03-24T07:37:54.419Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-80f4-9c23-f33eecdb88c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "동일한 URL 요청임에도 불구하고, 문제가 발생할 때도 있고 발생하지 않을 때도 있었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "동일한 URL 요청임에도 불구하고, 문제가 발생할 때도 있고 발생하지 않을 때도 있었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8012-aea5-da666aa989a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다양한 시도 끝에 홈에서 링크를 통해 페이지로 이동하면 문제가 없었지만, URL을 직접 입력해서 접근할 경우에는 500 에러가 발생한다는 사실을 발견했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다양한 시도 끝에 홈에서 링크를 통해 페이지로 이동하면 문제가 없었지만, URL을 직접 입력해서 접근할 경우에는 500 에러가 발생한다는 사실을 발견했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-80fe-8883-c40fbdfa3599",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:40:00.000Z",
+      "last_edited_time": "2025-03-21T01:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_3.png",
+          "expiry_time": "2025-03-24T07:37:54.368Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8021-b61b-e5599dd1995c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "드디어 문제를 명확하게 재현할 수 있게되었습니다. 하지만 왜 직접 URL로 이동할 때만 문제가 발생하는지는 아직도 미궁입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "드디어 문제를 명확하게 재현할 수 있게되었습니다. 하지만 왜 직접 URL로 이동할 때만 문제가 발생하는지는 아직도 미궁입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-801e-8bcb-ebcc4f57120e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 문제를 해결하기 위해 여러 차례의 시도를 거듭하던 중, 뜻밖의 사실을 또 하나 발견했습니다. 바로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 문제를 해결하기 위해 여러 차례의 시도를 거듭하던 중, 뜻밖의 사실을 또 하나 발견했습니다. 바로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/blog",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/blog",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "와 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "와 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/guide",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/guide",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라는 두 경로 중에서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라는 두 경로 중에서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/guide",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/guide",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 경로로 직접 접근했을 때는 500 에러가 전혀 발생하지 않았던 것입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 경로로 직접 접근했을 때는 500 에러가 전혀 발생하지 않았던 것입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8007-98db-f1abc3dfa819",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 두 경로 간의 차이는 무엇일까요? 두 경로의 코드를 꼼꼼하게 비교한 끝에 결정적인 차이를 발견했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 두 경로 간의 차이는 무엇일까요? 두 경로의 코드를 꼼꼼하게 비교한 끝에 결정적인 차이를 발견했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-808a-8559-c84879c6220d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "export const runtime = \"edge\";\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "export const runtime = \"edge\";\n",
+            "href": null
+          }
+        ],
+        "language": "typescript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8029-af54-db0792f65237",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "바로 이 한 줄의 설정입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "바로 이 한 줄의 설정입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-80a0-b6b1-c5efdc676319",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "빠르게 관련 문서를 찾아 읽기 시작했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빠르게 관련 문서를 찾아 읽기 시작했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-802c-88af-dbb1ec42a0f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Edge and Node.js Runtimes - Next.js 공식 문서",
+              "link": {
+                "url": "https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Edge and Node.js Runtimes - Next.js 공식 문서",
+            "href": "https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8056-8386-db78169e311f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Edge Runtime은 Vercel Edge Functions, Cloudflare Workers와 같은 Edge 환경에서 실행되는 런타임이다. Node.js 환경과 달리 각 요청마다 동적으로 HTML을 생성한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Edge Runtime은 Vercel Edge Functions, Cloudflare Workers와 같은 Edge 환경에서 실행되는 런타임이다. Node.js 환경과 달리 각 요청마다 동적으로 HTML을 생성한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8020-acfe-db7eef56079c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:39:00.000Z",
+      "last_edited_time": "2025-03-21T01:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 무엇이 문제인지 감이 잡히셨나요? 저는 바로 이 부분을 캐치했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 무엇이 문제인지 감이 잡히셨나요? 저는 바로 이 부분을 캐치했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8039-be3d-d76a08d0e3ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T01:44:00.000Z",
+      "last_edited_time": "2025-03-21T01:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-804c-beb3-ea8a11af9845",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:12:00.000Z",
+      "last_edited_time": "2025-03-24T06:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "원인을 찾았으니 이제 문제를 해결해볼까요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "원인을 찾았으니 이제 문제를 해결해볼까요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8079-b8bd-dea8a0b6f7c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:12:00.000Z",
+      "last_edited_time": "2025-03-24T06:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞서 발견한 문제의 핵심은 바로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞서 발견한 문제의 핵심은 바로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = \"edge\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = \"edge\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 였습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 였습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8076-8f94-c12f26d6be67",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:12:00.000Z",
+      "last_edited_time": "2025-03-24T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = \"edge\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = \"edge\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 로 설정된 페이지는 빌드 시점에 미리 정적으로 생성되지 않습니다. 다시 말해, 정적인 HTML 파일이 없으며, 매 요청마다 Edge 환경에서 Backend 로직을 통해 실시간 SSR(Server Side Rendering) 처리 후 HTML 을 반환합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 로 설정된 페이지는 빌드 시점에 미리 정적으로 생성되지 않습니다. 다시 말해, 정적인 HTML 파일이 없으며, 매 요청마다 Edge 환경에서 Backend 로직을 통해 실시간 SSR(Server Side Rendering) 처리 후 HTML 을 반환합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8028-b71e-d9a9d1168790",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:13:00.000Z",
+      "last_edited_time": "2025-03-24T06:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국 문제의 원인은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국 문제의 원인은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "“빌드 시점에 생성된 Static Page(정적 페이지)가 존재하지 않는다”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“빌드 시점에 생성된 Static Page(정적 페이지)가 존재하지 않는다”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 였습니다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 였습니다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8087-8c49-c09c1a883081",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:14:00.000Z",
+      "last_edited_time": "2025-03-24T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 해결 방법은 명확해졌습니다. 바로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 해결 방법은 명확해졌습니다. 바로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "SSG(Static Site Generation)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SSG(Static Site Generation)",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 사용하면 되는 거죠!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 사용하면 되는 거죠!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8097-a69c-f64b6596987e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:15:00.000Z",
+      "last_edited_time": "2025-03-24T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-805d-9f3d-c116ec2b64f8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:15:00.000Z",
+      "last_edited_time": "2025-03-24T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "먼저, 기존과 동일하게 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "먼저, 기존과 동일하게 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = \"edge\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = \"edge\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 설정을 유지한 상태로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 설정을 유지한 상태로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "npm run build",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm run build",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 를 실행하여 각 페이지의 빌드 유형을 확인해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 를 실행하여 각 페이지의 빌드 유형을 확인해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-806e-9df3-f94dc0d6e501",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:28:00.000Z",
+      "last_edited_time": "2025-03-24T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_4.png",
+          "expiry_time": "2025-03-24T07:37:54.479Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80f9-8b92-e340b1188b93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:15:00.000Z",
+      "last_edited_time": "2025-03-24T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "빌드 결과, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빌드 결과, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/blog/[slug]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/blog/[slug]",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 경로는 Dynamic 방식으로 빌드된다는 사실을 확인할 수 있습니다. 이어서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 경로는 Dynamic 방식으로 빌드된다는 사실을 확인할 수 있습니다. 이어서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "npm run start",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm run start",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 명령어로 빌드 결과물을 실행해보니 500 error 가 발생합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 명령어로 빌드 결과물을 실행해보니 500 error 가 발생합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8092-b591-ffe76750456f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:28:00.000Z",
+      "last_edited_time": "2025-03-24T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8060-97b7-c4019944c054",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:16:00.000Z",
+      "last_edited_time": "2025-03-24T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다음으로, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다음으로, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = \"edge\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = \"edge\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 를 제거하고 다시 빌드를 실행해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 를 제거하고 다시 빌드를 실행해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80f6-abb3-f59732428653",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:29:00.000Z",
+      "last_edited_time": "2025-03-24T06:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_5.png",
+          "expiry_time": "2025-03-24T07:37:54.488Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80d1-98d9-f00ec60478b9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:17:00.000Z",
+      "last_edited_time": "2025-03-24T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/blog/[slug]",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/blog/[slug]",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 경로가 SSG 방식으로 정상 빌드되었습니다. 그리고 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 경로가 SSG 방식으로 정상 빌드되었습니다. 그리고 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "npm run start",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm run start",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 를 통해 페이지를 확인해보니, 이번에는 아무런 문제 없이 SSG 로 빌드된 페이지가 정상적으로 렌더링되었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 를 통해 페이지를 확인해보니, 이번에는 아무런 문제 없이 SSG 로 빌드된 페이지가 정상적으로 렌더링되었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8061-b45a-cba8301f4e0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:21:00.000Z",
+      "last_edited_time": "2025-03-24T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8089-b4d2-f7d8c50a3d48",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:21:00.000Z",
+      "last_edited_time": "2025-03-24T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자 이제 원인도 알았고, 문제도 해결했습니다. 배포 드가자~",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자 이제 원인도 알았고, 문제도 해결했습니다. 배포 드가자~",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80dd-bf47-f654676324d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:21:00.000Z",
+      "last_edited_time": "2025-03-24T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vercel 에서도 각 경로가 어떤 방식으로 빌드되는지 확인할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vercel 에서도 각 경로가 어떤 방식으로 빌드되는지 확인할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80fb-a335-f829c295bb2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:23:00.000Z",
+      "last_edited_time": "2025-03-24T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_6.png",
+          "expiry_time": "2025-03-24T07:37:54.439Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8040-80b5-f1e0a537c660",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:21:00.000Z",
+      "last_edited_time": "2025-03-24T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기존에는 functions 에 있는 것을 확인할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기존에는 functions 에 있는 것을 확인할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80da-b9f1-fca77e5048bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:24:00.000Z",
+      "last_edited_time": "2025-03-24T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = \"edge\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "runtime = \"edge\"",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 를 제거하고 배포한 결과를 확인해보면",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 를 제거하고 배포한 결과를 확인해보면",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80e8-996c-f886123fc997",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:25:00.000Z",
+      "last_edited_time": "2025-03-24T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_7.png",
+          "expiry_time": "2025-03-24T07:37:54.419Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80f3-8c06-fc63dd109161",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:25:00.000Z",
+      "last_edited_time": "2025-03-24T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ISR 영역에 추가되고, 각 페이지 경로가 존재하는 것을 확인할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ISR 영역에 추가되고, 각 페이지 경로가 존재하는 것을 확인할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-8068-b670-defed38b6200",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:27:00.000Z",
+      "last_edited_time": "2025-03-20T10:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bc8cf23-285a-8092-b32c-cdd63b5f1e2c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-20T10:27:00.000Z",
+      "last_edited_time": "2025-03-24T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "후반 결 및 정리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "후반 결 및 정리",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80ae-97e7-f9aca58ef5f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:25:00.000Z",
+      "last_edited_time": "2025-03-24T06:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결국 위 방법으로 문제를 해결하고, 구글 서치 콘솔(google search console)을 통해 색인 요청이 정상적으로 가능해졌습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결국 위 방법으로 문제를 해결하고, 구글 서치 콘솔(google search console)을 통해 색인 요청이 정상적으로 가능해졌습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8055-8feb-c5bcf8bfa4c9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:26:00.000Z",
+      "last_edited_time": "2025-03-24T06:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "실제로 구글에서 내 블로그를 확인하기 위해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "실제로 구글에서 내 블로그를 확인하기 위해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "site:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "site:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://mike-blog-murex.vercel.app",
+              "link": {
+                "url": "https://mike-blog-murex.vercel.app/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "https://mike-blog-murex.vercel.app",
+            "href": "https://mike-blog-murex.vercel.app/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 를 검색해보니, 다음과 같이 정상적으로 검색 결과에 노출되는 것을 확인할 수 있었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 를 검색해보니, 다음과 같이 정상적으로 검색 결과에 노출되는 것을 확인할 수 있었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8061-bba0-e8fbb6f40c28",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:26:00.000Z",
+      "last_edited_time": "2025-03-24T06:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_8.png",
+          "expiry_time": "2025-03-24T07:37:54.800Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-809b-a9b3-d5d33aa5d869",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:17:00.000Z",
+      "last_edited_time": "2025-03-24T06:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이변 경험을 통해 처음으로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이변 경험을 통해 처음으로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "“edge 런타임 환경”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“edge 런타임 환경”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 개념을 접하게 되었는데요. 향후에는 edge 런타임 환경을 구축하여 500 error 없이 동작하는지 추가적으로 확인 해볼 계획입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 개념을 접하게 되었는데요. 향후에는 edge 런타임 환경을 구축하여 500 error 없이 동작하는지 추가적으로 확인 해볼 계획입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8029-95cf-f79c9c2bce1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:33:00.000Z",
+      "last_edited_time": "2025-03-24T06:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80f0-a002-e592a30abadd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:33:00.000Z",
+      "last_edited_time": "2025-03-24T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이번 문제 해결을 통해 얻은 인사이트를 다음과 같이 정리해 보았습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이번 문제 해결을 통해 얻은 인사이트를 다음과 같이 정리해 보았습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-800b-a983-d314b834d7f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:34:00.000Z",
+      "last_edited_time": "2025-03-24T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "runtime = “edge” 모드는 SSG(Static Site Generation) 를 사용할 수 없습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "runtime = “edge” 모드는 SSG(Static Site Generation) 를 사용할 수 없습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c08cf23-285a-8020-849a-ecda7e79b02f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c08cf23-285a-800b-a983-d314b834d7f9"
+          },
+          "created_time": "2025-03-24T06:34:00.000Z",
+          "last_edited_time": "2025-03-24T06:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "runtime edge 모드를 사용하면 매 요청마다 서버에서 실시간으로 HTML 을 생성합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "runtime edge 모드를 사용하면 매 요청마다 서버에서 실시간으로 HTML 을 생성합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c08cf23-285a-809a-9147-f006f2fd0bd9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c08cf23-285a-800b-a983-d314b834d7f9"
+          },
+          "created_time": "2025-03-24T06:34:00.000Z",
+          "last_edited_time": "2025-03-24T06:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "SSG 방식이 필요한 경우에는 runtime edge 모드를 사용하면 안됩니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "SSG 방식이 필요한 경우에는 runtime edge 모드를 사용하면 안됩니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8056-bf78-d564874c23b9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:27:00.000Z",
+      "last_edited_time": "2025-03-24T06:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vercel 은 많은 정보를 제공합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vercel 은 많은 정보를 제공합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c08cf23-285a-8072-9301-deff6b1a05aa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c08cf23-285a-8056-bf78-d564874c23b9"
+          },
+          "created_time": "2025-03-24T06:35:00.000Z",
+          "last_edited_time": "2025-03-24T06:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "문제가 발생하면 Vercel 에서 제공하는 log 를 확인하는 것만으로도 원인을 파악할 수 있습니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "문제가 발생하면 Vercel 에서 제공하는 log 를 확인하는 것만으로도 원인을 파악할 수 있습니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8086-ba22-fb792b99fe87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:35:00.000Z",
+      "last_edited_time": "2025-03-24T06:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "google search console 에 색인 생성 요청은 하루에 1개만 가능하다…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "google search console 에 색인 생성 요청은 하루에 1개만 가능하다…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c08cf23-285a-80ba-8dc4-da8c558059d5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c08cf23-285a-8086-ba22-fb792b99fe87"
+          },
+          "created_time": "2025-03-24T06:35:00.000Z",
+          "last_edited_time": "2025-03-24T06:36:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "작성한 글이 많다면 하루하루 꾸준히 생성 요청을 해야합니다",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "작성한 글이 많다면 하루하루 꾸준히 생성 요청을 해야합니다",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80e0-83f1-e53c2500b4d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:09:00.000Z",
+      "last_edited_time": "2025-03-24T06:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-8052-bb43-f4c01d67ee5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:09:00.000Z",
+      "last_edited_time": "2025-03-24T06:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "마지막으로 500 error 를 해결하고 색인 생성을 완료한 결과입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "마지막으로 500 error 를 해결하고 색인 생성을 완료한 결과입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1bd8cf23-285a-8073-b0a7-ec4f6b893ea4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-21T06:03:00.000Z",
+      "last_edited_time": "2025-03-21T06:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_9.png",
+          "expiry_time": "2025-03-24T07:37:54.803Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80d6-ae02-f52c6d59713a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T05:42:00.000Z",
+      "last_edited_time": "2025-03-24T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb/image_10.png",
+          "expiry_time": "2025-03-24T07:37:54.800Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c08cf23-285a-80a1-9cf5-ed1f36fbb595",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1bb8cf23-285a-801b-8814-c55ea9a2f1cb"
+      },
+      "created_time": "2025-03-24T06:28:00.000Z",
+      "last_edited_time": "2025-03-24T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

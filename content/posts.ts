@@ -4,6 +4,7 @@ import newPost from "../notion-data/19d8cf23-285a-80ba-98ce-c2a6c023394a.json";
 import seoOpenGraph from "../notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05.json";
 import notionPressoCons from "../notion-data/1b48cf23-285a-800d-8d71-e59c62011457.json";
 import commandCommandfor from "../notion-data/1b68cf23-285a-8029-9730-fe1a24c55dc6.json";
+import runtimeEdge from "../notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb.json";
 
 const posts = [
   {
@@ -54,6 +55,16 @@ const posts = [
     content: commandCommandfor,
     date: "2025-03-14",
     description: "command 및 commandfor 소개 및 정리",
+    image: undefined,
+  },
+  {
+    title:
+      "SSR 로 블로그 배포하다 마주친 의문의 500 에러 - runtime edge 만날 썰 푼다",
+    slug: "runtime-edge",
+    content: runtimeEdge,
+    date: "2025-03-24",
+    description:
+      "Edge 런타임 환경이 SSR 을 지원하지 않아 발생하는 문제 및 해결",
     image: undefined,
   },
 ] as Post[];
