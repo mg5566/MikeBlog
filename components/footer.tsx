@@ -35,7 +35,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/mg5566"
+            href="https://github.com/mg5566/MikeBlog"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">github</p>
@@ -56,6 +56,10 @@ export default function Footer() {
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} MIT Licensed
       </p>
+      {/* 
+      TODO: 블로그 정보 
+      ex) Blog Version: v1.0.0 | Developed by Mike(클릭하면 깃허브 링크로 이동)
+      */}
     </footer>
   );
 }
