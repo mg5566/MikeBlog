@@ -5,6 +5,7 @@ import seoOpenGraph from "../notion-data/1b38cf23-285a-80f2-b2d2-ebea14678d05.js
 import notionPressoCons from "../notion-data/1b48cf23-285a-800d-8d71-e59c62011457.json";
 import commandCommandfor from "../notion-data/1b68cf23-285a-8029-9730-fe1a24c55dc6.json";
 import runtimeEdge from "../notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb.json";
+import blogVersion from "../notion-data/1c88cf23-285a-80c5-9509-ff114de541f3.json";
 
 const posts = [
   {
@@ -65,6 +66,14 @@ const posts = [
     date: "2025-03-24",
     description:
       "Edge 런타임 환경이 SSR 을 지원하지 않아 발생하는 문제 및 해결",
+    image: undefined,
+  },
+  {
+    title: "아직도 블로그 버전을 하드코딩하니?",
+    slug: "blog-version",
+    content: blogVersion,
+    date: "2025-04-01",
+    description: "블로그 버전 관리하기",
     image: undefined,
   },
 ] as Post[];
