@@ -1,3 +1,5 @@
+import Credits from "./credits";
+
 function ArrowIcon() {
   return (
     <svg
@@ -53,13 +55,7 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
-        © {new Date().getFullYear()} MIT Licensed
-      </p>
-      {/* 
-      TODO: 블로그 정보 
-      ex) Blog Version: v1.0.0 | Developed by Mike(클릭하면 깃허브 링크로 이동)
-      */}
+      <Credits />
     </footer>
   );
 }
