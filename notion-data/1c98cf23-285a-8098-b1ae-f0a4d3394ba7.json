@@ -1,0 +1,4360 @@
+{
+  "object": "page",
+  "id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7",
+  "created_time": "2025-04-02T08:14:00.000Z",
+  "last_edited_time": "2025-04-02T09:01:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "1688cf23-285a-80c6-8f58-e3a96a6ccde2"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "빌드 전에 version.json 만든다고요? ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "빌드 전에 version.json 만든다고요? ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "npm version",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "npm version",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 한 줄이면 돼요",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 한 줄이면 돼요",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/version-json-npm-version-1c98cf23285a8098b1aef0a4d3394ba7",
+  "public_url": null,
+  "request_id": "0165338a-00e0-4caf-8bbc-e571be659633",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8094-bf76-cc8b01e23e95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:17:00.000Z",
+      "last_edited_time": "2025-04-02T08:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“빌드 전에 version.json 만든다고요? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“빌드 전에 version.json 만든다고요? ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm version",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 한 줄이면 돼요”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 한 줄이면 돼요”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8015-823e-e60babeb050a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:18:00.000Z",
+      "last_edited_time": "2025-04-02T08:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-802e-811d-de87d8cffdfb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:18:00.000Z",
+      "last_edited_time": "2025-04-02T08:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "아직도 블로그 버전을 하드코딩하니?",
+              "link": {
+                "url": "https://mike-blog-murex.vercel.app/blog/blog-version"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아직도 블로그 버전을 하드코딩하니?",
+            "href": "https://mike-blog-murex.vercel.app/blog/blog-version"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "” 에서 이어지는 글입니다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "” 에서 이어지는 글입니다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-804f-a230-fad01bd839c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:19:00.000Z",
+      "last_edited_time": "2025-04-02T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지난 글에서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지난 글에서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "public/version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "public/version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 을 빌드 전에 자동으로 생성해, 현재 배포된 버전 정보를 명시하는 방법을 소개했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 을 빌드 전에 자동으로 생성해, 현재 배포된 버전 정보를 명시하는 방법을 소개했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ae-87cc-f10967e4efd0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:31:00.000Z",
+      "last_edited_time": "2025-04-02T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "플랫폼 의존성 없이, 클라우드 네이티브하게, 누구나 쉽게 쓸 수 있는 자동화된 방식이라 자부",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "플랫폼 의존성 없이, 클라우드 네이티브하게, 누구나 쉽게 쓸 수 있는 자동화된 방식이라 자부",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-803e-ba5d-e97b60ff0d84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:31:00.000Z",
+      "last_edited_time": "2025-04-02T08:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 한가지 중요한 문제를 간과했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 한가지 중요한 문제를 간과했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c2-9c4b-c6b694042d57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:32:00.000Z",
+      "last_edited_time": "2025-04-02T08:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 이 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "빌드 이전에 생성된 파일",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빌드 이전에 생성된 파일",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이기 때문에 결과물(artifact)의 일부로 간주되지 않고, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이기 때문에 결과물(artifact)의 일부로 간주되지 않고, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Git 히스토리에도 남지 않는다는 사실",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Git 히스토리에도 남지 않는다는 사실",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ce-9f32-d4ec955d30da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:19:00.000Z",
+      "last_edited_time": "2025-04-02T08:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "커밋에도 없고, 태그 기준으로도 추적이 안되니, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "커밋에도 없고, 태그 기준으로도 추적이 안되니, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "배포 버전의 근거를 잃게 되는 셈",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "배포 버전의 근거를 잃게 되는 셈",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8002-ba2e-c79b3d177484",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:33:00.000Z",
+      "last_edited_time": "2025-04-02T08:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "라이프사이클 관점에서 보면, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라이프사이클 관점에서 보면, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "아티펙트와 분리된 외부 리소스처럼 동작",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아티펙트와 분리된 외부 리소스처럼 동작",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하기 때문에 추적성과 일관성 면에서 큰 리스크가 됩니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하기 때문에 추적성과 일관성 면에서 큰 리스크가 됩니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ff-8e5c-f10d1c0b8a9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:36:00.000Z",
+      "last_edited_time": "2025-04-02T08:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새로운 방안 1. 응, commit 에 남기면 그만이야~",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새로운 방안 1. 응, commit 에 남기면 그만이야~",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8058-8b85-df742837224c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:36:00.000Z",
+      "last_edited_time": "2025-04-02T08:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그래서 새로운 방법을 모색해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그래서 새로운 방법을 모색해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ae-806e-d878a31af108",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:37:00.000Z",
+      "last_edited_time": "2025-04-02T08:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "(역시 엔지니어링의 핵심은 엔지니어의 창의성!)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(역시 엔지니어링의 핵심은 엔지니어의 창의성!)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8022-9ed0-e67a0206c37a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:37:00.000Z",
+      "last_edited_time": "2025-04-02T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version 을 통해서 Git tag 를 남길 수 있기때문에, tag 를 남긴 후, Git hook 기능을 활용하여 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npm version 을 통해서 Git tag 를 남길 수 있기때문에, tag 를 남긴 후, Git hook 기능을 활용하여 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 파일을 commit 에 추가하는 워크플로우를 생각해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 파일을 commit 에 추가하는 워크플로우를 생각해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c8-8362-e692e35ce80b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:45:00.000Z",
+      "last_edited_time": "2025-04-02T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c4-b170-e1e1d7ab92ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:38:00.000Z",
+      "last_edited_time": "2025-04-02T08:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://git-scm.com/docs/githooks",
+              "link": {
+                "url": "https://git-scm.com/docs/githooks"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://git-scm.com/docs/githooks",
+            "href": "https://git-scm.com/docs/githooks"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80dc-81d3-e9e3d11b0bca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:37:00.000Z",
+      "last_edited_time": "2025-04-02T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만, tag 관련한 Hook 을 발생시키는 pre-tag, post-tag 같은 기능은 존재하지 않았습니다. ㅠㅠ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만, tag 관련한 Hook 을 발생시키는 pre-tag, post-tag 같은 기능은 존재하지 않았습니다. ㅠㅠ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80f0-98da-cf09708eb1b6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:40:00.000Z",
+      "last_edited_time": "2025-04-02T08:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c4-8aed-d38f0dfed658",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:39:00.000Z",
+      "last_edited_time": "2025-04-02T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "워크플로우는 맘에 들어서 Git hook 말고, 다른 방법을 모색해봤습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "워크플로우는 맘에 들어서 Git hook 말고, 다른 방법을 모색해봤습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8012-826c-ccdf03d9f456",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:45:00.000Z",
+      "last_edited_time": "2025-04-02T08:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새로운 방안 2. npm version 만으로 해결할 수 있어. 오히려 좋아~",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새로운 방안 2. npm version 만으로 해결할 수 있어. 오히려 좋아~",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8058-8591-e3ace72574ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:45:00.000Z",
+      "last_edited_time": "2025-04-02T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version 에도 hook 과 같은 기능을 사용할 수 있다는 사실을 발견했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npm version 에도 hook 과 같은 기능을 사용할 수 있다는 사실을 발견했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-800f-b669-df50d9b8dd2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:40:00.000Z",
+      "last_edited_time": "2025-04-02T08:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://docs.npmjs.com/cli/v9/commands/npm-version#description",
+              "link": {
+                "url": "https://docs.npmjs.com/cli/v9/commands/npm-version#description"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://docs.npmjs.com/cli/v9/commands/npm-version#description",
+            "href": "https://docs.npmjs.com/cli/v9/commands/npm-version#description"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-805b-aeed-efec45f78da0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:40:00.000Z",
+      "last_edited_time": "2025-04-02T08:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위 문서를 살펴보면 다음과 같은 내용을 발견할 수 있습니다.\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위 문서를 살펴보면 다음과 같은 내용을 발견할 수 있습니다.\n",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8001-98aa-e8e6a17e5796",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "If ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "If ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "preversion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "preversion",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", or ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", or ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "postversion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "postversion",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " are in the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " are in the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "scripts",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "scripts",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " property of the package.json, they will be executed as part of running ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " property of the package.json, they will be executed as part of running ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "npm version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "npm version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8074-b651-c113c3ecba81",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The exact order of execution is as follows:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The exact order of execution is as follows:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-80ed-9d25-f81a03e18e72",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Check to make sure the git working directory is clean before we get started. Your scripts may add files to the commit in future steps. This step is skipped if the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Check to make sure the git working directory is clean before we get started. Your scripts may add files to the commit in future steps. This step is skipped if the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "-force",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "-force",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " flag is set.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " flag is set.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8062-a6a9-e66c705562e3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Run the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Run the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "preversion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "preversion",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " script. These scripts have access to the old ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " script. These scripts have access to the old ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " in package.json. A typical use would be running your full test suite before deploying. Any files you want added to the commit should be explicitly added using ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " in package.json. A typical use would be running your full test suite before deploying. Any files you want added to the commit should be explicitly added using ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "git add",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "git add",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8062-aa74-d3dc57d66d1b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Bump ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Bump ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " in ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " in ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "package.json",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "package.json",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " as requested (",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " as requested (",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "patch",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "patch",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "minor",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "minor",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "major",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "major",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", etc).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", etc).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8083-9f67-c8a83c77ab29",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Run the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Run the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " script. These scripts have access to the new ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " script. These scripts have access to the new ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " in package.json (so they can incorporate it into file headers in generated files for example). Again, scripts should explicitly add generated files to the commit using ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " in package.json (so they can incorporate it into file headers in generated files for example). Again, scripts should explicitly add generated files to the commit using ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "git add",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "git add",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-80d9-a884-f8b961a06f58",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Commit and tag.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Commit and tag.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-808d-bee1-d7700128dfb1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-805b-aeed-efec45f78da0"
+          },
+          "created_time": "2025-04-02T08:43:00.000Z",
+          "last_edited_time": "2025-04-02T08:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Run the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Run the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "postversion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "postversion",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " script. Use it to clean up the file system or automatically push the commit and/or tag.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " script. Use it to clean up the file system or automatically push the commit and/or tag.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-805c-b1bd-ff5543ec3885",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:43:00.000Z",
+      "last_edited_time": "2025-04-02T08:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "오 pre-tag 와 같은 아이디어입니다. 처음에 구상한 워크플로우 아이디어를 그대로 사용할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "오 pre-tag 와 같은 아이디어입니다. 처음에 구상한 워크플로우 아이디어를 그대로 사용할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80d2-b628-e37c02364236",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:50:00.000Z",
+      "last_edited_time": "2025-04-02T08:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 본격적으로 순차적으로 설명해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 본격적으로 순차적으로 설명해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-807c-8088-e7d6011b819d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:50:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version 한줄로 끝나는 버전 관리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npm version 한줄로 끝나는 버전 관리",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80f0-ba2b-e43edeadd256",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "먼저, 이번에 구성한 전체 흐름을 간단히 정리해보면 아래와 같습니다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "먼저, 이번에 구성한 전체 흐름을 간단히 정리해보면 아래와 같습니다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c2-b2e2-c1de97c08f50",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:53:00.000Z",
+      "last_edited_time": "2025-04-02T08:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "// package.json\n{\n  \"scripts\": {\n    \"preversion\": \"echo \\\"Running preversion script ${npm_package_version}\\\"\",\n    \"version\": \"echo \\\"Running version script ${npm_package_version}\\\" && npm run generate-version && git add public/version.json\",\n    \"postversion\": \"echo \\\"Running postversion script ${npm_package_version}\\\"\",\n    \"generate-version\": \"node scripts/generate-version.js\"\n  }\n}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// package.json\n{\n  \"scripts\": {\n    \"preversion\": \"echo \\\"Running preversion script ${npm_package_version}\\\"\",\n    \"version\": \"echo \\\"Running version script ${npm_package_version}\\\" && npm run generate-version && git add public/version.json\",\n    \"postversion\": \"echo \\\"Running postversion script ${npm_package_version}\\\"\",\n    \"generate-version\": \"node scripts/generate-version.js\"\n  }\n}",
+            "href": null
+          }
+        ],
+        "language": "json"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-803a-bb92-ef0e5ce11bd9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version patch -m \"Release v1.0.3\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npm version patch -m \"Release v1.0.3\"",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-806a-a37a-cbf452c5da93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 명령어 하나로 다음 작업이 순차적으로 실행됩니다:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 명령어 하나로 다음 작업이 순차적으로 실행됩니다:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80d9-a0e1-f055cae268bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "preversion",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "preversion",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 필요하면 테스트나 체크 등을 사전에 수행",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 필요하면 테스트나 체크 등을 사전에 수행",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-803a-8fdc-da8bdc3d1900",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "version",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "version",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "generate-version.js",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "generate-version.js",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 실행해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 실행해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "public/version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "public/version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-80c3-86ae-c87c1673a6ba",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-803a-8fdc-da8bdc3d1900"
+          },
+          "created_time": "2025-04-02T08:52:00.000Z",
+          "last_edited_time": "2025-04-02T08:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "생성된 파일을 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "생성된 파일을 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "git add",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "git add",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "로 명시적으로 커밋에 포함",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "로 명시적으로 커밋에 포함",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8008-810d-fbe909c70aa2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "package.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "package.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "의 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "의 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "version",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "version",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이 업데이트",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 업데이트",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8015-a4ba-e24d93d3fe5a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Git commit + Git tag 자동 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Git commit + Git tag 자동 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80f6-8df5-ef6ee89ab990",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:52:00.000Z",
+      "last_edited_time": "2025-04-02T08:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "postversion",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "postversion",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 커밋 푸시 등 후처리 (선택 사항)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 커밋 푸시 등 후처리 (선택 사항)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80f1-97c0-cb1732e2b464",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:54:00.000Z",
+      "last_edited_time": "2025-04-02T08:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "// 실행 결과\n\n$ npm version patch --force\nnpm WARN using --force Recommended protections disabled.\nnpm WARN version Git working directory not clean, proceeding forcefully.\n\n> preversion\n> echo \"Running preversion script ${npm_package_version}\"\n\nRunning preversion script 1.0.1\n\n> version\n> echo \"Running version script ${npm_package_version}\" && npm run generate-version && git add public/version.json\n\nRunning version script 1.0.2\nnpm WARN using --force Recommended protections disabled.\n\n> generate-version\n> node scripts/generate-version.js\n\n\n> postversion\n> echo \"Running postversion script ${npm_package_version}\"\n\nRunning postversion script 1.0.2\nv1.0.2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// 실행 결과\n\n$ npm version patch --force\nnpm WARN using --force Recommended protections disabled.\nnpm WARN version Git working directory not clean, proceeding forcefully.\n\n> preversion\n> echo \"Running preversion script ${npm_package_version}\"\n\nRunning preversion script 1.0.1\n\n> version\n> echo \"Running version script ${npm_package_version}\" && npm run generate-version && git add public/version.json\n\nRunning version script 1.0.2\nnpm WARN using --force Recommended protections disabled.\n\n> generate-version\n> node scripts/generate-version.js\n\n\n> postversion\n> echo \"Running postversion script ${npm_package_version}\"\n\nRunning postversion script 1.0.2\nv1.0.2",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80fd-be84-d08f33d10109",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:56:00.000Z",
+      "last_edited_time": "2025-04-02T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": ".gitignore 에서 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".gitignore 에서 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/public/version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "/public/version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 은 제거했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 은 제거했습니다.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "⛔"
+        },
+        "color": "gray_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-809f-bad6-c4c1eba1c546",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:58:00.000Z",
+      "last_edited_time": "2025-04-02T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ce-b524-ebb57540786e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:58:00.000Z",
+      "last_edited_time": "2025-04-02T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/1c98cf23-285a-8098-b1ae-f0a4d3394ba7/image_1.png",
+          "expiry_time": "2025-04-02T10:02:02.955Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80dd-a8ef-e6e2e59bfb7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:58:00.000Z",
+      "last_edited_time": "2025-04-02T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정상적으로 동작하는 것을 확인할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정상적으로 동작하는 것을 확인할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80e6-ac05-d226c3daba5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T08:59:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "요약: 이제 version.json 도 Git 과 함께 관리하세요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "요약: 이제 version.json 도 Git 과 함께 관리하세요.",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80f8-a004-e59e366083fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "처음엔 단순히 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "처음엔 단순히 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "version.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "version.json",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 자동으로 생성하면 충분하다고 생각했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 자동으로 생성하면 충분하다고 생각했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-801d-b57e-cc3714b526d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Git 히스토리 밖에 존재하는 파일은, 버전 관리의 맥락을 잃기 쉽다는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Git 히스토리 밖에 존재하는 파일은, 버전 관리의 맥락을 잃기 쉽다는 것",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 깨달았고,",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 깨달았고,",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8008-a3ea-f629ff9832e7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이를 해결하기 위해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이를 해결하기 위해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm version",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 활용한 워크플로우를 구성했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 활용한 워크플로우를 구성했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80da-b791-e75ea6464901",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 방식의 장점은 분명합니다:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 방식의 장점은 분명합니다:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-808b-900f-d350087a986f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "버전 업데이트, 커밋, 태그, 파일 생성까지 한 줄로 자동화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "버전 업데이트, 커밋, 태그, 파일 생성까지 한 줄로 자동화",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-805d-abf2-f922fbaf6b34",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "휴먼 에러 최소화 → 배포 안정성 향상",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "휴먼 에러 최소화 → 배포 안정성 향상",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80c3-8cdd-e1e0ca241a6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라이프사이클 안에서 버전 정보를 관리 → 추적 가능성 향상",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라이프사이클 안에서 버전 정보를 관리 → 추적 가능성 향상",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ec-993e-d228febbdf8a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm version",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "npm version",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "은 단순한 버전 bump 명령어가 아니라,",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "은 단순한 버전 bump 명령어가 아니라,",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-8090-859e-ff9570211e93",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "버전 관리 전체를 자동화할 수 있는 powerful한 툴",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "버전 관리 전체를 자동화할 수 있는 powerful한 툴",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80df-9ec0-faffd4ceb733",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:00:00.000Z",
+      "last_edited_time": "2025-04-02T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 version.json도 아티팩트의 일부로, Git 히스토리 속에 살아 있게 해주세요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 version.json도 아티팩트의 일부로, Git 히스토리 속에 살아 있게 해주세요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c98cf23-285a-8041-ac04-e51c52e353b1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c98cf23-285a-80df-9ec0-faffd4ceb733"
+          },
+          "created_time": "2025-04-02T09:00:00.000Z",
+          "last_edited_time": "2025-04-02T09:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "npm version",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "npm version",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " 한 줄이면 충분합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " 한 줄이면 충분합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-809a-bf6b-d0bb571511d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80af-b42b-e066fbd98f92",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🙋‍♂️ 당신은 어떻게 버전 관리를 자동화하고 있나요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🙋‍♂️ 당신은 어떻게 버전 관리를 자동화하고 있나요?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80ec-820d-c2ab579bf3c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "혹시 여전히 수동으로 버전을 입력하고 있진 않나요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "혹시 여전히 수동으로 버전을 입력하고 있진 않나요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-800c-b30e-c6228ecf6a6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "혹은 CI/CD에서만 관리하고, Git 기록은 놓치고 있진 않나요?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "혹은 CI/CD에서만 관리하고, Git 기록은 놓치고 있진 않나요?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-80a6-a4be-f7379931505c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여러분의 워크플로우도 궁금합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여러분의 워크플로우도 궁금합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-806d-96bd-faf705a31227",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다른 아이디어나 개선 팁이 있다면 댓글이나 피드백으로 알려주세요!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다른 아이디어나 개선 팁이 있다면 댓글이나 피드백으로 알려주세요!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c98cf23-285a-801c-8d73-f4ffe3f1acde",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c98cf23-285a-8098-b1ae-f0a4d3394ba7"
+      },
+      "created_time": "2025-04-02T09:01:00.000Z",
+      "last_edited_time": "2025-04-02T09:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

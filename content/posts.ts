@@ -6,6 +6,7 @@ import notionPressoCons from "../notion-data/1b48cf23-285a-800d-8d71-e59c6201145
 import commandCommandfor from "../notion-data/1b68cf23-285a-8029-9730-fe1a24c55dc6.json";
 import runtimeEdge from "../notion-data/1bb8cf23-285a-801b-8814-c55ea9a2f1cb.json";
 import blogVersion from "../notion-data/1c88cf23-285a-80c5-9509-ff114de541f3.json";
+import npmVersion from "../notion-data/1c98cf23-285a-8098-b1ae-f0a4d3394ba7.json";
 
 const posts = [
   {
@@ -74,6 +75,14 @@ const posts = [
     content: blogVersion,
     date: "2025-04-01",
     description: "블로그 버전 관리하기",
+    image: undefined,
+  },
+  {
+    title: "빌드 전에 version.json 만든다고요? npm version 한 줄이면 돼요",
+    slug: "npm-version",
+    content: npmVersion,
+    date: "2025-04-02",
+    description: "npm version 으로 블로그 버전 관리하기",
     image: undefined,
   },
 ] as Post[];
