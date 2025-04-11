@@ -1,0 +1,705 @@
+{
+  "object": "page",
+  "id": "1d28cf23-285a-803c-9296-fc9bd8c50c08",
+  "created_time": "2025-04-11T10:42:00.000Z",
+  "last_edited_time": "2025-04-11T11:03:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "1688cf23-285a-80c6-8f58-e3a96a6ccde2"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "릴리즈 1.0.0",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "릴리즈 1.0.0",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1-0-0-1d28cf23285a803c9296fc9bd8c50c08",
+  "public_url": null,
+  "request_id": "6dd683ee-b1d7-4f2c-8140-6a1b3bdfbfb2",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8093-9f25-ff00097677b0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:42:00.000Z",
+      "last_edited_time": "2025-04-11T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🎉드디어, v1.0.0",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🎉드디어, v1.0.0",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-80d0-96e2-c08a731ff8ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:49:00.000Z",
+      "last_edited_time": "2025-04-11T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "릴리즈 노트",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "릴리즈 노트",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "가 생겼습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가 생겼습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8048-a30a-c97fbbbf88bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:49:00.000Z",
+      "last_edited_time": "2025-04-11T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "상단 메뉴에서 직접 확인해보세요. (release 메뉴 추가!)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "상단 메뉴에서 직접 확인해보세요. (release 메뉴 추가!)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8047-bff7-fdc7be2760d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:49:00.000Z",
+      "last_edited_time": "2025-04-11T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📚앞으로 펼쳐질 계획",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📚앞으로 펼쳐질 계획",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-80ee-a958-cb872404cdfe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:44:00.000Z",
+      "last_edited_time": "2025-04-11T10:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Notion Renderer 마이그레이션\nnotionpresso 에서 개발한 notionpresso/react 에서 → 더많은 기능을 제공하는 react-notion-x 로!\n노션과 더 닮은, 더 완성도 높은 수준을 보여줄 수 있도록",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Notion Renderer 마이그레이션\nnotionpresso 에서 개발한 notionpresso/react 에서 → 더많은 기능을 제공하는 react-notion-x 로!\n노션과 더 닮은, 더 완성도 높은 수준을 보여줄 수 있도록",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-80df-9dcb-f5b8564fa026",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:52:00.000Z",
+      "last_edited_time": "2025-04-11T10:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "글 검색 기능\n원하는 글, 쉽게 찾자!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "글 검색 기능\n원하는 글, 쉽게 찾자!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-80af-b0bf-e8801d9d55c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:53:00.000Z",
+      "last_edited_time": "2025-04-11T10:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "태그 기능 도입\n글마다 태그를 추가하여 검색이 용이하도록 개선 예정",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "태그 기능 도입\n글마다 태그를 추가하여 검색이 용이하도록 개선 예정",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8067-b40e-e48db4060ee9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:58:00.000Z",
+      "last_edited_time": "2025-04-11T10:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-801e-bb6b-cf15c6cabf6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:58:00.000Z",
+      "last_edited_time": "2025-04-11T10:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "드디어 서비스가 출시되었습니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "드디어 서비스가 출시되었습니다. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "(실은 이글을 작성하기 이전부터 서비스되고 있었습니다.)\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(실은 이글을 작성하기 이전부터 서비스되고 있었습니다.)\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "오랜 시간 고민하고, 만들고, 다듬어온 결과물입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "오랜 시간 고민하고, 만들고, 다듬어온 결과물입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8034-9c40-c53a8e627edd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:59:00.000Z",
+      "last_edited_time": "2025-04-11T11:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞으로도 바쁘더라도 멈추지 않고,\n더 많이 고민해보고, 정리하여\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞으로도 바쁘더라도 멈추지 않고,\n더 많이 고민해보고, 정리하여\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "내가 한 고민이 누군가의 시간을 줄여줄 수 있기를 바라는 마음으로",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "내가 한 고민이 누군가의 시간을 줄여줄 수 있기를 바라는 마음으로",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\n차근차근 완성도를 채워나가겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n차근차근 완성도를 채워나가겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-809e-82e5-d4e769603c92",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T11:02:00.000Z",
+      "last_edited_time": "2025-04-11T11:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "작지만 단단한 공간이 될 수 있도록",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "작지만 단단한 공간이 될 수 있도록",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-8073-8c0a-e09553988fe7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T10:44:00.000Z",
+      "last_edited_time": "2025-04-11T11:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1d28cf23-285a-800b-8f79-f413a89115c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1d28cf23-285a-803c-9296-fc9bd8c50c08"
+      },
+      "created_time": "2025-04-11T11:03:00.000Z",
+      "last_edited_time": "2025-04-11T11:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4b4d5a14-7d5b-4820-94b7-9503bea3d5e1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

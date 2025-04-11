@@ -1,5 +1,7 @@
 import Image from "next/image";
-import { BlogPosts } from "components/posts";
+import { PostList } from "components/PostList";
+import posts from "content/posts";
+import releases from "content/release";
 
 export default function Page() {
   return (
@@ -21,7 +23,10 @@ export default function Page() {
         to be anything but ordinary.
       </p>
       <div className="my-8">
-        <BlogPosts />
+        <PostList type="blog" posts={posts} />
+      </div>
+      <div className="my-8">
+        <PostList type="release" posts={releases} />
       </div>
     </section>
   );
